@@ -1,3 +1,7 @@
+body {
+  background: url("/images/background.jpg");
+  background-attachment: fixed;
+}
 .banner {
   height: 100%;
   position: relative;
